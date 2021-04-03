@@ -1,0 +1,1 @@
+/home/pegah/practical-machine-learning-w-rust/chapter2/logistic_regression_rustlearn/target/debug/logistic_regression: /home/pegah/practical-machine-learning-w-rust/chapter2/logistic_regression_rustlearn/src/main.rs
